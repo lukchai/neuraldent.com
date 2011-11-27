@@ -881,7 +881,7 @@ body #badge-builder-header
 	background: #fff;
 	float: left;
 	margin: 0 0 10px 0;
-	min-height: 640px;
+/*	min-height: 640px;*/
 	padding: 24px;
 	padding-bottom: 8px;
 }
@@ -935,7 +935,7 @@ a#shirt-link:focus
 .download-item
 {
 	float: left;
-	height: 126px;
+	height: 64px;
 	margin: 0 0 15px 0;
 	width: 430px;
 }
@@ -964,9 +964,9 @@ a#shirt-link:focus
 {
 	background: #fff;
 	float: left;
-	height: 126px;
+	height: 64px;
 	margin: 0 15px 0 0;
-	width: 126px;
+	width: 64px;
 }
 .download-item li
 {
